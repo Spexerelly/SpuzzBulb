@@ -1,0 +1,8 @@
+My SpuzzBulb Project
+To separate files list the files with content in one directory
+To separate files list the files with summeries in one directory
+To separate files list the files with plans in one directory
+
+I started a readme file. Then just kept adding text with several echo request commands and the file didn't take the detail. So that means the content need to use git add and git commit commands before it reflects on the file and is saved.
+To Do: create a git .ignore file to work with different directories.
+BookMark: ProGit page 32 Viewing Your Staged and Unstaged Changes
